@@ -10,4 +10,4 @@ Please enjoy and all types of suggestions are welcome :)
 ## Current Completed Data Structure
 
 - Singly Linked List
-- Doubly Linked List (Developing)
+- Doubly Linked List (Under Development)
